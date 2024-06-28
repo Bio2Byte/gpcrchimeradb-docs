@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "lumache"
-authors = [{name = "Graziella", email = "graziella@lumache"}]
+name = "GPCRchimeraDB"
+authors = [{name = "Wim Vranken", email = "wim.vranken@vub.be"}, {name = "Charlotte Crauwels", email = "charlotte.crauwels@vub.be"}, {name = "Adrian Diaz", email = "adrian.diaz@vub.be"}]
 dynamic = ["version", "description"]
