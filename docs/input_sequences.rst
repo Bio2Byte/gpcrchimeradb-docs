@@ -1,6 +1,7 @@
 Entries on the GPCRchimeraDB
 ============================
 
+Coming Soon!
 
 Natural GPCRs
 -------------
@@ -8,3 +9,7 @@ Natural GPCRs
 
 Chimeric GPCRs
 --------------
+
+
+.. Pharmacological name:
+.. Abbreviated name:

@@ -24,6 +24,7 @@ The documentation is organized into two sections:
    overview
    input_sequences
    data_on_DB
+   entry_querying
    sequence_alignment
    tutorial
 .. _about-docs:

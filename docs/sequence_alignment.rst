@@ -1,4 +1,4 @@
 Sequence Alignment
 ==================
 
-Guide on performing sequence alignments.
+Coming Soon!

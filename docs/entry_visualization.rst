@@ -1,4 +1,4 @@
 Entry Visualization
 ===================
 
-Learn how to visualize entries on the website.
+Coming Soon!
