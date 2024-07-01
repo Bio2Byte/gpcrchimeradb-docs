@@ -1,7 +1,7 @@
-Licence & Disclaimer
+Licence & Disclaimers
 ====================
 
-Access and Use (Licence)
+Access and Use 
 ------------------------
 
 GPCRchimeraDB and this documentation are published under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. 
