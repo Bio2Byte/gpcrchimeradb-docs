@@ -1,11 +1,11 @@
 About GPCRchimeraDB
 ===================
 
-GPCRchimeraDB offers ():
-- Natural & Chimeric GPCRs
-- Data at sequence, structural and biophysical level
-- Visualization tools
-- Analysis tools
+GPCRchimeraDB offers:
+-   Natural & Chimeric GPCRs
+-   Data at sequence, structural and biophysical level
+-   Visualization tools
+-   Analysis tools
 
 GPCRchimeraDB is the only database to describe chimeric GPCRs and their parents at such an extend.
 
