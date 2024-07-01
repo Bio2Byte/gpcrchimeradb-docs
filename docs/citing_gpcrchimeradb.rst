@@ -13,13 +13,13 @@ Contact us via `Bio2Byte <mailto:Bio2Byte@vub.be>`_ if you are interest in updat
 
 Authors and Affiliations
 ------------------------
-The authors of GPCRchimeraDB are Charlotte Crauwels (PhD student) and Adrián Diaz (software engineer), 
+The authors of GPCRchimeraDB are Charlotte Crauwels (PhD student) and Adrián Díaz (software engineer), 
 under the supervision of Prof. Wim Vranken. 
 We are part of the Bio2Byte research group led by Prof. Wim Vranken,
 the Interuniversity Institute of Bioinformatics in Brussels (IB2),
-Structural Biology Brussels (SBB) and the Vrije Universiteit Brussel (VUB).
+Structural Biology Brussels (SBB), AI lab and the Vrije Universiteit Brussel (VUB).
 
-More information about our current and former work at Bio2Byte `here <https://www.bio2byte.be>`_.
+More information about our current and previous work at Bio2Byte `here <https://www.bio2byte.be>`_.
 
 
 Acknowledgements
@@ -33,4 +33,4 @@ during the early stages of development of this database.
 Funding
 -------
 This work was supported by Research Foundation Flanders (FWO) SB PhD fellowship [1SE5923N] to Charlotte Crauwels and
-the FWO large infrastructure grant [I000323N] to Adrián Diaz.
+the FWO large infrastructure grant [I000323N] to Adrián Díaz.

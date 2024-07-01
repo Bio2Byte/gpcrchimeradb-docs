@@ -21,13 +21,11 @@ The documentation is organized into two sections:
    :maxdepth: 2
    :caption: User documentation
 
+   overview
    input_sequences
    data_on_DB
-   entry_querying
    sequence_alignment
-   overview
-   chimera_design
-
+   tutorial
 .. _about-docs:
 
 .. toctree::
