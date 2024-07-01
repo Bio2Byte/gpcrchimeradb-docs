@@ -1,11 +1,12 @@
 Overview scheme
 ===============
 
+
 Below is a Miro board summarizing the information contained in GPCRchimeraDB. 
 It explains how the source of information varies depending on whether the entry is a natural or chimeric GPCR.
 
-For natural GPCRs, all information in GPCRchimeraDB is based on their UniProt ID or sequence. 
-For chimeric GPCRs, the information is based solely on their sequence. 
+For natural GPCRs, all information on GPCRchimeraDB is based on their UniProt ID or Sequence. 
+For chimeric GPCRs, the information is based solely on their Sequence. 
 
 .. raw:: html
 
