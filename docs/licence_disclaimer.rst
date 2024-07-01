@@ -9,7 +9,7 @@ This means that the data can be copied, redistributed, remixed, transformed and 
 For more information, visit the `Creative Commons website <https://creativecommons.org/licenses/by/4.0/>`_.
 
 Content, Access and Use
------------------------------------
+------------------------
 We make no warranties regarding the correctness of the data, and disclaim liability for damages resulting from its use. The data available on this site is retrieved from other databases (GPCRdb, UniProt, PDB, IUPHAR...) and is based on predictive models. Therefore, this data should be used with an understanding of its potential limitations. The accuracy of data may vary, and it is the user's responsibility to evaluate its suitability for intended applications.
 The entire risk as to the quality and performance of the data is with you.
 The copyrights for ALL information stored in GPCRchimeraDB belongs to the copyright holders unless stated otherwise.
