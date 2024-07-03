@@ -17,4 +17,5 @@ You can download data at multiple locations on the database:
 
 -  **The Alignment page**: After aligning your proteins of interest, you can download the alignment in FASTA format.
 
--  **COMING SOON: The Bit Bucket**: Donwload all raw data (JSON format) of the Entries, the master Multiple Sequence Alignments (FASTA format) and the code to retrieve, parse and format the data. The code behind the database is also available there.
+
+-  **COMING SOON: GPCRchimeraDB GitHub**: Donwload all raw data (JSON format) of the Entries, the master Multiple Sequence Alignments (FASTA format) and the code that was used to retrieve, parse and format the data. The code behind the database is also available there.

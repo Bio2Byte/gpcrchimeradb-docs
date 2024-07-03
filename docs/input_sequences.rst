@@ -1,7 +1,7 @@
 Entries on the GPCRchimeraDB
 ============================
 
-Coming Soon!
+
 
 Natural GPCRs
 -------------
