@@ -1,20 +1,27 @@
 Download Data
 =============
 
-You can download the data at multiple locations on the database:
 
+Depending on the data you are interested in, you will need to navigate to the appropriate location:
 
--  **The `Entries page <https://bio2byte.be/gpcrdb/>`_:**
+-  **The `Entries page <https://bio2byte.be/gpcrdb/entries>`_**:
 
  You can select the entry/entries you are interested in and download
     -   Their entire description (sequence, structural and biophysical level) in JSON format (1 file per selected entry).
     -   Their biophysical profile in TSV format (1 file per selected entry).
 
-.. image:: images/a.png
+.. image:: images/Download_entries.png
    :alt: Example image description
    :width: 400px
 
--  **The Entry page of a GPCR of interest**: At the top of the entry page of a GPCR of interest (banner), you can downlaoad:
+
+.. image:: images/Download_entries.pdf
+   :alt: Example image description
+   :width: 400px
+
+-  **The Entry page of a GPCR of interest**: 
+
+At the top of the entry page of a GPCR of interest (banner), you can downlaoad:
     -   Its sequence in FASTA format.
     -   Its 3D structures or models in PDB format.
     -   Its biophysical profile in TSV format.

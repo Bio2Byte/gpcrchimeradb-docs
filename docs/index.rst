@@ -2,9 +2,7 @@ Welcome to the GPCRchimeraDB documentation!
 ===========================================
 
 Contents:
-
-* :ref:`user-docs`
-* :ref:`about-docs`
+---------
 
 .. _user-docs:
 
