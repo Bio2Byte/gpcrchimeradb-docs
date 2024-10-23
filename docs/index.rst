@@ -20,7 +20,6 @@ Contents:
    :maxdepth: 2
    :caption: About GPCRchimeraDB:
 
-   about_gpcrchimeradb
    contact_us
    citing_gpcrchimeradb
    licence_disclaimer

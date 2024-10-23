@@ -17,6 +17,7 @@ viewer when you hover over a residue. You can reset the view on the 3D viewer us
    :alt: Example image description
    :width: 600px
 
+
 To interact with the 3D molecule, you can use the following mouse controls (same as for Mol*):
     - Rotate: click the left mouse button and move.
     - Translate: click the right mouse button and move. On a touchpad device, use a two-finger drag.
