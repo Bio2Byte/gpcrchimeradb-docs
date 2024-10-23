@@ -18,6 +18,7 @@ Contents:
    tutorial
    
    download_data
+   sequence_structure_viewer
    
 .. _about-docs:
 
