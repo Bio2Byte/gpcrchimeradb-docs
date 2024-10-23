@@ -10,15 +10,9 @@ Contents:
    :maxdepth: 2
    :caption: User guide:
 
-   overview
-   input_sequences
-   data_on_DB
-   entry_querying
-   sequence_alignment
-   tutorial
-   
-   download_data
    sequence_structure_viewer
+   alignment
+   download_data
    
 .. _about-docs:
 
