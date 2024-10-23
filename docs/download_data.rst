@@ -23,9 +23,9 @@ At the top of the entry page of a GPCR of interest (banner), you can download:
     -   Its **entire description (sequence, structural and biophysical level)** in JSON format.
     -   The **entire description (sequence, structural and biophysical level) of a residue of interest** in JSON format by selecting that residue in the Sequence Properties section. 
     
-       .. image:: images/Download_entry_page.png
-         :alt: Example image description
-         :width: 600px
+   .. image:: images/Download_entry_page.png
+      :alt: Example image description
+      :width: 600px
 
     
     -   **Colorized 3D structure or model**: In the 3D viewer, you can colorize your 3D structure of interest based on its biophysical features or, for chimeric entries, based on its cutting points or difference in biophysical behavior compared to its parents.
@@ -36,8 +36,6 @@ At the top of the entry page of a GPCR of interest (banner), you can download:
    .. image:: images/download_3Dstructure.png
       :alt: Example image description
       :width: 600px
-      :height: 600px
-
 
 3. On the GPCRchimeraDB Zenodo:
 
