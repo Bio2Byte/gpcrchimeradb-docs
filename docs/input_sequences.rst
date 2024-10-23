@@ -3,7 +3,7 @@ Entry types & Descriptors
 
 On GPCRchimeraDB, two types of entries can be found:
 
--   The Chimera Entries which were obtained through an extensive literature search.
+-   The Chimeric Entries which were obtained through an extensive literature search.
 -	The Natural Entries which are all reviewed class A mammalian GPCRs available on InterPro (IPR017452). These include the parent GPCRs of the chimeras as well as GPCRs not used in chimeric design before. This will allow to consider novel parent combinations in the future.
 
 

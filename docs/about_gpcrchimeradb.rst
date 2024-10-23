@@ -8,7 +8,7 @@ GPCRchimeraDB offers:
 -   Visualization tools
 -   Analysis tools
 
-GPCRchimeraDB is the only database to describe chimeric GPCRs and their parents at such an extend.
+GPCRchimeraDB is the only database to describe chimeric and natural GPCRs at such an extend and to enable the study the chimera's features in relation to their parents' features.
 
 Finally, GPCRchimeraDB's goals are the following:
 

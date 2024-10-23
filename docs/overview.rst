@@ -42,3 +42,9 @@ About
 The About page provides information about the website, its purpose as well as background information.
 Visit the `About page <https://bio2byte.be/gpcrdb/about>`_.
 
+Documentation
+~~~~~
+
+The Documentation page links to this documentation.
+Visit the `Documentation page <https://gpcrchimeradb-docs.readthedocs.io/en/latest/>`_.
+
