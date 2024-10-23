@@ -1,5 +1,0 @@
-Sequence Alignment
-==================
-
-
-aaaaaaa
