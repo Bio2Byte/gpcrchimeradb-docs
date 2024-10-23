@@ -4,8 +4,7 @@ Download Data
 
 Depending on the data you are interested in, you will need to navigate to the appropriate location.
 
-On the `entries page <https://www.bio2byte.be/gpcrchimeradb/entries>`_
-----------------------------------------------------------------------
+1. On the `entries page <https://www.bio2byte.be/gpcrchimeradb/entries>`_:
 
  You can select your entry/entries of interest in and download:
     -   Their **entire description (sequence, structural and biophysical level)** in JSON format (1 file per selected entry).
@@ -15,8 +14,7 @@ On the `entries page <https://www.bio2byte.be/gpcrchimeradb/entries>`_
    :alt: Example image description
    :width: 600px
 
-On the entry page of a GPCR of interest: 
-----------------------------------------
+2. On the entry page of a GPCR of interest: 
 
 At the top of the entry page of a GPCR of interest (banner), you can download:
     -   Its **sequence** in FASTA format.
@@ -32,19 +30,18 @@ You can now continue to analyze your colorized 3D structure on your local machin
 .. image:: images/Download_entry_page.png
    :alt: Example image description
    :width: 600px
-
+   
+   :align: center
 
 .. image:: images/download_3Dstructure.png
    :alt: Example image description
    :width: 600px
 
 
-On the GPCRchimeraDB Zenodo
-----------------------------
+3. On the GPCRchimeraDB Zenodo:
 
 Download all info of all entries in JSON format (1 file per entry) on Zenodo. On Zenodo you can also download the Master Alignment behind the Sequence Alignment tool.
 
-GPCRchimeraDB GitHub
---------------------
+4. GPCRchimeraDB GitHub:
 
- Access the code used to retrieve all the information available on GPCRchimeraDB to describe the entries.
+Access the code used to retrieve all the information available on GPCRchimeraDB to describe the entries.
