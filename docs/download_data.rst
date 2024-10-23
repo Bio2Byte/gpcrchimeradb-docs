@@ -22,16 +22,15 @@ At the top of the entry page of a GPCR of interest (banner), you can download:
     -   Its **biophysical profile** in TSV format.
     -   Its **entire description (sequence, structural and biophysical level)** in JSON format.
     -   The **entire description (sequence, structural and biophysical level) of a residue of interest** in JSON format by selecting that residue in the Sequence Properties section. 
+    
+.. image:: images/Download_entry_page.png
+   :alt: Example image description
+   :width: 600px
+    
     -   **Colorized 3D structure or model**: In the 3D viewer, you can colorize your 3D structure of interest based on its biophysical features or, for chimeric entries, based on its cutting points or difference in biophysical behavior compared to its parents.
 Once your structure is colorized, you can download it with as Bfactor values, the values of the selected feature to colorize your structure.
 Open your favorite structure viewer (Pymol or Mol* for example) and load your downloaded structure. Colorize it as you would colorize a 3D structure based on its Bfactor or pLDDT.
 You can now continue to analyze your colorized 3D structure on your local machine!
-
-.. image:: images/Download_entry_page.png
-   :alt: Example image description
-   :width: 600px
-   
-   :align: center
 
 .. image:: images/download_3Dstructure.png
    :alt: Example image description
