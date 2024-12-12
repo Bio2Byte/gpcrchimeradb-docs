@@ -42,6 +42,6 @@ At the top of the entry page of a GPCR of interest (banner), you can download:
 
 Download all info of all entries in JSON format (1 file per entry) on Zenodo. On Zenodo you can also download the Master Alignment behind the Sequence Alignment tool.
 
-4. GPCRchimeraDB GitHub:
+4. GPCRchimeraDB `GitHub <https://github.com/Bio2Byte/GPCRchimeraDB>`_:
 
-Access the code used to retrieve all the information available on GPCRchimeraDB to describe the entries.
+Access the code on `GitHub <https://github.com/Bio2Byte/GPCRchimeraDB>`_ used to retrieve all the information available on GPCRchimeraDB to describe the entries.
