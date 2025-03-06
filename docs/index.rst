@@ -13,6 +13,7 @@ Contents:
    sequence_structure_viewer
    alignment
    download_data
+   tutorial
    
 .. _about-docs:
 

@@ -6,9 +6,9 @@ Depending on the data you are interested in, you will need to navigate to the ap
 
 1. On the `entries page <https://www.bio2byte.be/gpcrchimeradb/entries>`_:
 
-You can select your entry/entries of interest in and download:
+You can select your entry/entries of interest and download:
     -   Their **entire description (sequence, structural and biophysical level)** in JSON format (1 file per selected entry).
-    -   Their **biophysical profile** in TSV format (1 file per selected entry).
+    -   Their **biophysical profile** in CSV format (1 file per selected entry).
 
    .. image:: images/Download_entries.png
       :alt: Example image description
@@ -19,7 +19,7 @@ You can select your entry/entries of interest in and download:
 At the top of the entry page of a GPCR of interest (banner), you can download:
     -   Its **sequence** in FASTA format.
     -   Its **3D structures or models** in PDB format.
-    -   Its **biophysical profile** in TSV format.
+    -   Its **biophysical profile** in CSV format.
     -   Its **entire description (sequence, structural and biophysical level)** in JSON format.
     -   The **entire description (sequence, structural and biophysical level) of a residue of interest** in JSON format by selecting that residue in the Sequence Properties section. 
     
