@@ -13,7 +13,7 @@ Note that in experimentally resolved structures, not all residues are always ava
 If you select an unresolved residue in the 1D viewer, it cannot be located in the 3D structure, and an error message will indicate this.
 The track in the 1D viewer named after the ID of the selected 3D structure highlights which regions of the protein are unresolved in the chosen structure.
 
-.. image:: images/3D_1Dconnection.png
+.. image:: images/unmapped_residuePDB.png
    :alt: Example image description
    :width: 600px
 
