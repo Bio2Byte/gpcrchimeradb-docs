@@ -25,7 +25,7 @@ Each entry page in GPCRchimeraDB integrates annotations from major databases, pr
 - **Motif conservation**: Identifying regions that are sensitive to mutations.
 - **PTM sites and interacting residues**: Understanding their role in GPCRx function.
 
-Since chimeric design introduces stretches of mutations, understanding these factors is critical. The :ref:`sequence_structure_viewer` allows direct examination of key residues in their 3D context.
+Since chimeric design introduces stretches of mutations, understanding these factors is critical. The **1D-3D viewer** allows direct examination of key residues in their 3D context.
 
 Step 2: Define Potential GPCRy Candidates
 ------------------------------------------
@@ -59,7 +59,7 @@ Step 4: Optimize Cutting Sites Using Related Chimeras
 Beyond the basic cutting site rules, analyzing previously designed chimeras can refine the selection process. GPCRchimeraDB offers tools for:
 
 - **Comparing biophysical profiles**: Use the **1D-3D viewer** to compare a chimera’s biophysical profile to its parents.
-- **Examining residue conservation**: Use the *Conservation parent vs chimera* track or :ref:`alignment` `alignment tool <https://www.bio2byte.be/gpcrchimeradb/gpcrchimeradb/sequence_alignment_entries>`_ .
+- **Examining residue conservation**: Use the *Conservation parent vs chimera* track or `alignment tool <https://www.bio2byte.be/gpcrchimeradb/gpcrchimeradb/sequence_alignment_entries>`_.
 - **Reviewing past cutting sites**: Identify how far previous cuts extend into TM helices.
 - **Aligning parent 3D structures**: Download and superimpose 3D structures to find equivalent regions for cutting sites.
 
