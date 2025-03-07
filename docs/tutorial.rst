@@ -25,7 +25,7 @@ Each entry page in GPCRchimeraDB integrates annotations from major databases, pr
 - **Motif conservation**: Identifying regions that are sensitive to mutations.
 - **PTM sites and interacting residues**: Understanding their role in GPCRx function.
 
-Since chimeric design introduces stretches of mutations, understanding these factors is critical. The **1D-3D viewer** allows direct examination of key residues in their 3D context.
+Since chimeric design introduces stretches of mutations, understanding these factors is critical. The **1D-3D viewer** (:ref:`sequence_structure_viewer`) allows direct examination of key residues in their 3D context.
 
 Step 2: Define Potential GPCRy Candidates
 ------------------------------------------
@@ -53,31 +53,19 @@ Cutting sites for GPCRx and GPCRy must be carefully chosen to enhance chimera de
 - **Favor the EC parent**: The chimeric sequence should resemble the EC parent as closely as possible.
 - **Preserve G protein binding**: The **IC parent** should contribute residues responsible for G protein binding.
 
-GPCRchimeraDB provides information on **conserved motifs, secondary structures, and interacting residues** to support this step.
-
 Step 4: Optimize Cutting Sites Using Related Chimeras
 ------------------------------------------------------
 
 Beyond the basic cutting site rules, analyzing previously designed chimeras can refine the selection process. GPCRchimeraDB offers tools for:
 
 - **Comparing biophysical profiles**: Use the **1D-3D viewer** to compare a chimera’s biophysical profile to its parents.
-- **Examining residue conservation**: Use the *Conservation parent vs chimera* track or alignment tool.
+- **Examining residue conservation**: Use the *Conservation parent vs chimera* track or `alignment tool <https://www.bio2byte.be/gpcrchimeradb/gpcrchimeradb/sequence_alignment_entries>`_.
 - **Reviewing past cutting sites**: Identify how far previous cuts extend into TM helices.
 - **Aligning parent 3D structures**: Download and superimpose 3D structures to find equivalent regions for cutting sites.
-
-Step 5: Design the Chimera
---------------------------
-
-Once cutting sites are defined:
-
-1. **Align GPCRx and GPCRy** using the GPCRchimeraDB alignment tool.
-2. **Design the chimera**.
 
 To **increase the likelihood of success**, **in silico validation** is recommended:
 
 - **Structural modeling**: Generate an **AF2** or **ESMF** model and compare it to the 3D structures of GPCRx and GPCRy.
 - **Confidence metrics**: Compare the chimera’s **pLDDT** and **PAE** values with its parent models.
-- **Biophysical analysis**: Use **b2btools** to ensure the chimera's properties align with natural GPCR behavior.
-- **Molecular Dynamics (MD) simulations**: Assess the chimera’s stability before experimental validation.
-
-The most promising designs can then be **tested experimentally**, bringing you closer to achieving the research objectives that motivated the chimera's creation.
+- **Biophysical analysis**: Use `b2btools <https://bio2byte.be/b2btools/>`_ to ensure the chimera's properties align with natural GPCR behavior.
+- **Molecular Dynamics (MD) simulations**: To be considered.
