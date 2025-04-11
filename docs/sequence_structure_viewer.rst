@@ -33,6 +33,14 @@ To interact with the 3D molecule, you can use the following mouse controls (same
 Finally, when you select a residue in either the 1D or 3D viewer, a detailed description appears in the "Selection Details" card. 
 This section provides all available information about the selected residue, along with a link to the database or web server where the data was sourced.
 
+**Remark:** Regarding the generic numbering, as our alignment and TM region definition can slightly differ 
+from those used in GPCRdb, some discrepancies in the residue numbering may appear 
+for some positions, particularly for the orphan receptors. 
+For example, a residue annotated as part of a loop region in GPCRchimeraDB (e.g. P233 GPR85 located in ICL3) may correspond to a helical residue in GPCRdb (P5.50x50, see Figure 1).
+Therefore, we provide both a suggested updated numbering defined using the Ballesteros-Weinstein (BW) definition (left from the '|' symbol) and, 
+the established BW and GPCRdb numbering retrieved from GPCRdb (right from the '|' symbol). In most cases,
+these numbering match, if not, we highlight them in red.
+
 .. image:: images/SelectionDetails.png
    :alt: Example image description
    :width: 600px
